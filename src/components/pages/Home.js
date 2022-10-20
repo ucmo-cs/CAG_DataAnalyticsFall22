@@ -71,8 +71,8 @@ const F1 = styled.div`
 `
 
 const F2 = styled.div`
-    padding: 10px 350px;
-    max-width: 1380px;
+    padding: 10px 25vw;
+    width: 100vw;
     display: flex;
     flex-direction: column;
 `
